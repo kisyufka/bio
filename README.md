@@ -105,9 +105,14 @@ Hi! I'm **Kisyufka** — a Python developer specializing in creating practical a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kisyufka&show_icons=true&theme=dark&hide_border=true)
+### Статистика профиля / Profile Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kisyufka&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=kisyufka&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kisyufka&layout=compact&theme=algolia)
+
+### Альтернативная статистика / Alternative Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kisyufka&theme=algolia)
 
 </div>
 
