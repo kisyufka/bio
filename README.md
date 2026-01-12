@@ -1,4 +1,3 @@
-
 # 👨‍💻 Kisyufka | Python Developer
 
 > "Код — это поэзия, которая работает" / "Code is poetry that works"
