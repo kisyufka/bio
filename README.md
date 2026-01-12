@@ -33,12 +33,11 @@
 - 🔧 **API и микросервисы** — для различных интеграций и сервисов
 
 **🛠 Мой технический стек:**
-```python
-# Основные технологии
-Python 3.8+ │ FastAPI/Flask │ aiogram/pyrogram │ discord.py │ PostgreSQL/SQLite
-SQLAlchemy │ Redis │ Docker │ Git │ REST API │ HTML/CSS/JS (базово)
-asyncio │ Celery │ pytest │ BeautifulSoup │ Pandas
-```
+- **Языки:** Python 3.8+
+- **Фреймворки:** FastAPI, Flask, aiogram, pyrogram, discord.py
+- **Базы данных:** PostgreSQL, SQLite, Redis
+- **Инструменты:** Git, Docker, REST API, HTML/CSS/JS (базово)
+- **Библиотеки:** asyncio, SQLAlchemy, pytest, BeautifulSoup, Pandas
 
 **🌈 Мои принципы и ценности:**
 - Я открытый член **LGBTQ+ сообщества** и поддерживаю разнообразие в IT-индустрии
@@ -74,12 +73,11 @@ Hi! I'm **Kisyufka** — a Python developer specializing in creating practical a
 - 🔧 **APIs and microservices** — for various integrations and services
 
 **🛠 My Tech Stack:**
-```python
-# Core technologies
-Python 3.8+ │ FastAPI/Flask │ aiogram/pyrogram │ discord.py │ PostgreSQL/SQLite
-SQLAlchemy │ Redis │ Docker │ Git │ REST API │ HTML/CSS/JS (basic)
-asyncio │ Celery │ pytest │ BeautifulSoup │ Pandas
-```
+- **Languages:** Python 3.8+
+- **Frameworks:** FastAPI, Flask, aiogram, pyrogram, discord.py
+- **Databases:** PostgreSQL, SQLite, Redis
+- **Tools:** Git, Docker, REST API, HTML/CSS/JS (basic)
+- **Libraries:** asyncio, SQLAlchemy, pytest, BeautifulSoup, Pandas
 
 **🌈 My Principles & Values:**
 - I'm an open member of the **LGBTQ+ community** and support diversity in the IT industry
@@ -107,11 +105,9 @@ asyncio │ Celery │ pytest │ BeautifulSoup │ Pandas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kisyufka&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kisyufka&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kisyufka&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kisyufka&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kisyufka&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -193,28 +189,14 @@ graph TD
 
 ## 🏷️ Tags & Technologies / Теги и технологии
 
-```python
-# Основные технологии / Core technologies
-primary_skills = [
-    "python", "fastapi", "flask", 
-    "telegram-bots", "discord-bots",
-    "postgresql", "sqlite", "docker",
-    "git", "rest-api", "asyncio"
-]
+### Основные технологии / Core technologies
+`Python` `FastAPI` `Flask` `aiogram` `pyrogram` `discord.py` `PostgreSQL` `SQLite` `Docker` `Git` `REST API` `asyncio`
 
-# Интересы / Interests
-interests = [
-    "automation", "web-development",
-    "open-source", "community-projects",
-    "lgbtq-in-tech", "inclusive-design"
-]
+### Интересы / Interests
+`automation` `web-development` `open-source` `community-projects` `lgbtq-in-tech` `inclusive-design`
 
-# Изучаю / Learning
-currently_learning = [
-    "microservices", "advanced-asyncio",
-    "performance-optimization", "testing"
-]
-```
+### Изучаю / Learning
+`microservices` `advanced-asyncio` `performance-optimization` `testing`
 
 ---
 
